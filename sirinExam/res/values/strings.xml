@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SirinExam</string>
+    <string name="Load_Picture">Load Picture</string><string name="desc">the image that was selected</string><string name="hello_world">Hello world!</string>
+    
+    
+
+</resources>

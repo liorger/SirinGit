@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SirinForJunit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text_hint">Please enter a number from 1 to 6</string><string name="OkStr">O.K</string><string name="action_settings">Settings</string>
+    
+    
+
+</resources>
